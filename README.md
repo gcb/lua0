@@ -13,12 +13,12 @@ patches, the upstream build scripts should be used.
 Features / To-do list
 =====================
 
-[ ] Map initial work and necessary API changes
-   [ ] TODO:
-[X] Fetch Lua versions
-[ ] Apply zero-based patches
-[ ] Apply "branding" (i.e. call everything lua0) patches (hopefully work across multiple versions?)
-[ ] Build Lua0 using upstream scripts
+- [ ] Map initial work and necessary API changes
+   - [ ] TODO:
+- [X] Fetch Lua versions
+- [ ] Apply zero-based patches
+- [ ] Apply "branding" (i.e. call everything lua0) patches (hopefully work across multiple versions?)
+- [ ] Build Lua0 using upstream scripts
 
 License
 =======
